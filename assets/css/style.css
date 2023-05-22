@@ -11904,7 +11904,7 @@ label {
 }
 
 .aside_info_wrapper .aside_logo a img {
-  max-width: 160px;
+  width: 80px;
   transition: all 0.5s ease-in-out;
 }
 
